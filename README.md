@@ -10,11 +10,22 @@ This repository contains a compilation of [Hunspell](https://hunspell.github.io)
 
 ### Sources
 The source of these hyphenations files are
+* https://wiki.documentfoundation.org/Language/Support
 * https://github.com/LibreOffice/dictionaries
 * https://extensions.libreoffice.org/?q=hyphenation&action_doExtensionSearch=Search
+* https://extensions.openoffice.org/en/search?query=hyphenation
+  - Rename the downloaded `*.oxt` to `*.zip` and unzip it.
 * https://addons.mozilla.org/en-US/firefox/language-tools/
+* https://aur.archlinux.org/packages?SeB=n&K=hunspell-
 
 The files have been converted to `UTF-8` before inclusion in this repository.
 
 ### Installing
 To install these hyphenation files, copy them to `~/Library/Spelling/` and restart your Affinity apps.
+
+### Contributing
+Pull requests are welcomed. Please have them formatted in UTF-8, and in the correctly named [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) folder.
+
+### License
+The files in this repository are, if nothing to the contrary is mentioned, licensed under the Lesser GNU Public License v2.1.
+Please check which license your file is published with, and if it differs from the LGPL-2.1 then include the relevant license file enclosed in the directory with the `*.dic` file.
