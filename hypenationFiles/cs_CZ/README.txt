@@ -1,0 +1,13 @@
+Language: Czech (Czech Republic) (cs CZ).
+Origin:   Based on the TeX hyphenation tables
+          https://extensions.libreoffice.org/en/extensions/show/czech-dictionaries
+License:  GPL license, 2003
+Author:   Pavel Janík <Pavel@Janik.cz>
+
+These patterns were converted from TeX hyphenation patterns by the package
+lingucomponent-tools
+(http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/oo-cs/lingucomponent-tools/).
+
+The license of original files is GNU GPL (they are both parts of csTeX). My
+work on them was to only run the scripts from lingucomponent-tools package
+(dual LGPL/SISSL license so it can be integrated).
