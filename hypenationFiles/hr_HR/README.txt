@@ -1,4 +1,4 @@
-Language: Czech (Czech Republic) (cs CZ).
+Language: Czech (Czech Republic) (cs CZ)
 Origin:   hrhyph.tex (1996-04-10)
           https://github.com/LibreOffice/dictionaries/tree/master/hr_HR
 License:  GNU LGPL

@@ -1,4 +1,4 @@
-Language: Czech (Czech Republic) (cs CZ).
+Language: Czech (Czech Republic) (cs CZ)
 Origin:   Based on the TeX hyphenation tables
           https://extensions.libreoffice.org/en/extensions/show/czech-dictionaries
 License:  GPL license, 2003

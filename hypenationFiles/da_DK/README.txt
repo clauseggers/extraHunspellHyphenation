@@ -1,4 +1,4 @@
-Language: Danish (da DK).
+Language: Danish (da DK)
 Origin:   Based on the TeX hyphenation tables
           https://extensions.libreoffice.org/en/extensions/show/stavekontrolden-danish-dictionary
 License:  GNU LGPL license.

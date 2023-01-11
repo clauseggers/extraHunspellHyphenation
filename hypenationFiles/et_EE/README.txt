@@ -1,4 +1,4 @@
-Language: Estonian (et EE).
+Language: Estonian (et EE)
 Origin:   https://github.com/LibreOffice/dictionaries/tree/master/et_EE
 License:  GNU LGPL license.
 Author:   Jaak Pruulmann <jjpp@meso.ee>
