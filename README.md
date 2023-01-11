@@ -26,7 +26,7 @@ To install these hyphenation files, copy them to `~/Library/Spelling/` and resta
 ### Contributing
 Pull requests are welcomed. Please have them formatted in UTF-8, and in the correctly named [ISO 639](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language and [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) folder.
 
-* The folder must be named `[ISO 639-1]_[ISO ISO 3166-1 alpha-2]`.
+* The folder must be named `[ISO 639-1]_[ISO ISO 3166-1 alpha-2]`. If no ISO 639-1 has been assigned use the ISO 639-2/T code.
 * The filename must be `hyph_[ISO 639-1]_[ISO ISO 3166-1 alpha-2].UTF-8.dic`.
 * Please include a copy of the license in the folder.
 * Please include a `README.txt` which includes the source and date of the hyphenation dictionary.
