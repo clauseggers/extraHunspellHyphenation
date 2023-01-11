@@ -1,6 +1,6 @@
 Language:      Hungarian (hu HU)
 Origin:        https://magyarispell.sourceforge.net
-License:       MPL/GPL/LGPL license, 2011
+License:       GNU General Public License, version 2
 Author:        Nagy Bence <nagybence@tipogral.hu>
 Version:       1.7 (2015–2018) / v20110815
 Patch version: 2020-12-16
