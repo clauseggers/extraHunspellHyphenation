@@ -1,6 +1,6 @@
 Language: Polish (pl PL)
 Origin:   Based on the TeX hyphenation tables
-          https://extensions.libreoffice.org/en/extensions/show/czech-dictionaries
+          https://github.com/LibreOffice/dictionaries/tree/master/pl_PL
 License:  The LaTeX Project Public License
 Author:   Artur Polaczyński <artiip@gmail.com>
 
