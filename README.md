@@ -1,4 +1,4 @@
-# Extra hyphenation files for the Suite of MacOS Affinity applications*
+# Extra hyphenation files for the Affinity Suite of MacOS Affinity applications*
 \* and other MacOS applications that make use of `Hunspell` dictionaries.
 
 *Hunspell is based in principle on the algorithmic approach [Franklin M. Liang developed in his 1983 PhD thesis.](https://tug.org/docs/liang/)
@@ -6,7 +6,7 @@ Raph Levien wrote a shorter explanation when Hunspell was [committed to Mozilla 
 
 This repository contains a compilation of [Hunspell](https://hunspell.github.io) hyphenation files that do not come included with installs of the [Affinity](https://affinity.serif.com/) apps.
 
-*No spelling dictionaries are included in this repo, this is just hyphenation. Installing the spelling dictionaries can have performance implications, hence it is better to install them in this context.*
+*No spelling dictionaries are included in this repo, this is just hyphenation. Installing the spelling dictionaries can have performance implications, hence it is better to install them separately in an as-needed basis.*
 
 ### Sources
 The source of many of these hyphenations files are
